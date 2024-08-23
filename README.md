@@ -27,8 +27,28 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/RehanNarwindo/MyCLub_RehanNarwindo.git
 cd MyCLub_RehanNarwindo
-# Individual Project Phase 2
+```
+### 2. Required env
 
+```
+JWT_SECRET=yourJWT
+RAPIDAPI_KEY=RAPIDAPI_FROM_TRANFERMARKET
+OPENAI_KEY=YOUR_OPENAI_KEY
+CLIENT_ID=YOUR_CLINET_ID
+BASE_URL=YOUR_BASE_URL
+
+
+```
+
+### 2. Start this website
+
+```
+npm i -y
+npm start
+```
+
+# Individual Project Phase 2
+```
 LINK HASIL DEPLOY SERVER : https://api-myclub.rehanaji.com/home/news
 LINK HASIL DEPLOY CLIENT : https://myclub.rehanaji.com/
 https://myclub-429201.web.app/
